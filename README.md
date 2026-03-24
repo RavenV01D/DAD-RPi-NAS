@@ -1,15 +1,17 @@
 ## DAD RPi NAS (BOM)  
 ## HARDWARE:  
-1. Raspberry pi 5 w/ 8 GB of ram```                            ```₹12,000  
-2. Radxa Penta for RPi 5```                                   ```₹6,000  
-3. Raspberry Pi active cooler```                              ```₹500  
-4. Kingston XS1000```                                         ```₹2,000  
-5. Noctua 40mm 3 pin fan```                                   ```₹2,000  
-6. molex to 3 pin fan converter```                            ```₹500  
-7. 12V 5V 60W psu barrel jack```                              ```₹1,500  
-8. Case```                                                    ```₹4,000  
-9. Miscellaneous```                                           ```₹200  
-10. Hard Drives (Seagate ironwolf 4Tb nas sata hdds)```       ```₹16,000 x2 (₹32,000)  
+| # | Item | Price |
+|---|------|------|
+| 1 | Raspberry pi 5 w/ 8 GB of ram | ₹12,000 |
+| 2 | Radxa Penta for RPi 5 | ₹6,000 |
+| 3 | Raspberry Pi active cooler | ₹500 |
+| 4 | Kingston XS1000 | ₹2,000 |
+| 5 | Noctua 40mm 3 pin fan | ₹2,000 |
+| 6 | molex to 3 pin fan converter | ₹500 |
+| 7 | 12V 5V 60W psu barrel jack | ₹1,500 |
+| 8 | Case | ₹4,000 |
+| 9 | Miscellaneous | ₹200 |
+| 10 | Hard Drives (Seagate IronWolf 4TB NAS SATA HDDs) | ₹16,000 x2 (₹32,000) |
 ```
 BONUS HARDWARE
 1. Ethernet cable - Ethernet Support
