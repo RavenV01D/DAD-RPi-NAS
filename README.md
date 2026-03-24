@@ -22,10 +22,12 @@ BONUS HARDWARE
 
 ```
 ## PRICING:  
-**TOTAL**: ₹60,000  
-**TOTAL WITHOUT DRIVES**: ₹25,000  
-**Similar NAS Price**: 88,000  
-**SIMILAR NAS PRICE WITHOUT HDD**: ₹55,000  
+| Category | Price |
+|----------|------|
+| TOTAL | ₹60,000 |
+| TOTAL WITHOUT DRIVES | ₹25,000 |
+| Similar NAS Price | ₹88,000 |
+| SIMILAR NAS PRICE WITHOUT HDD | ₹55,000 |
 ```
 NAS taken in example is Synology DS723+ class NAS
 
@@ -37,16 +39,18 @@ https://www.printables.com/model/1344785-raspberry-pi-5-radxa-penta-sata-hat-nas
 
 ```
 ## SOFTWARE:  
-1. OS – OpenMediaVault  
-2. DISK CONTROL – ~~RAID 1~~ Mergefs 
-3. Container Engine – Docker  
-4. Docker Manager – Portainer  
-5. Video Playback – Jellyfin  
-6. Music – Navidrome  
-7. Photos – Immich  
-8. Remote Access – Tailscale  
-9. Device Sync – Syncthing  
-10. Cloud system – Nextcloud  
+| # | Category | Software |
+|---|----------|----------|
+| 1 | OS | OpenMediaVault |
+| 2 | Disk Control | ~~RAID 1~~ mergerfs |
+| 3 | Container Engine | Docker |
+| 4 | Docker Manager | Portainer |
+| 5 | Video Playback | Jellyfin |
+| 6 | Music | Navidrome |
+| 7 | Photos | Immich |
+| 8 | Remote Access | Tailscale |
+| 9 | Device Sync | Syncthing |
+| 10 | Cloud System | Nextcloud |
 ## FLOWCHART:  
   
 ![Image](Flowchart.png)  
