@@ -66,5 +66,26 @@ https://www.printables.com/model/1344785-raspberry-pi-5-radxa-penta-sata-hat-nas
 - [ ] Software finished  
 ## BUILD:   
 - [ ] Complete  
-  
-  
+## CREDITS:
+
+### Case Design
+Raspberry Pi 5 + Radxa Penta SATA HAT NAS Case  
+Source: https://www.printables.com/model/1344785-raspberry-pi-5-radxa-penta-sata-hat-nas-case  
+
+Licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).  
+Changes may include hardware adjustments for component compatibility.
+
+### Software Credits
+Open source tools used in this project:
+
+- OpenMediaVault
+- Docker
+- Portainer
+- Jellyfin
+- Navidrome
+- Immich
+- Tailscale
+- Syncthing
+- Nextcloud
+
+All respective trademarks and copyrights belong to their owners.
