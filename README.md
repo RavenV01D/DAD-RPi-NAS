@@ -1,6 +1,5 @@
 [readme.md](https://github.com/user-attachments/files/26200372/readme.md)
-## DAD RPi NAS (BOM)  
-##   
+## DAD RPi NAS (BOM)
 ## HARDWARE:  
 1. Raspberry pi 5 w/ 8 GB of ram ₹12,000  
 2. Radxa Penta for RPi 5                               ₹6,000  
@@ -21,7 +20,6 @@ BONUS HARDWARE
 5. Extra Hard Disks - More Storage
 
 ```
-##   
 ## PRICING:  
 **TOTAL**: ₹60,000  
 **TOTAL WITHOUT DRIVES**: ₹25,000  
@@ -31,14 +29,12 @@ BONUS HARDWARE
 Drive taken in example is Synology DS723+ class NAS
 
 ```
-##   
 ## BUILDING TUTORIAL:  
 3d prints and build instructions  
 ```
 https://www.printables.com/model/1344785-raspberry-pi-5-radxa-penta-sata-hat-nas-case
 
 ```
-##   
 ## SOFTWARE:  
 1. OS – OpenMediaVault  
 2. DISK CONTROL – ~~RAID 1~~ MergeFS  
@@ -50,7 +46,6 @@ https://www.printables.com/model/1344785-raspberry-pi-5-radxa-penta-sata-hat-nas
 8. Remote Access – Tailscale  
 9. Device Sync – SyncThing  
 10. Cloud system – NextCloud  
-##   
 ## FLOWCHART:  
   
 ![Image](Attachments/315B3C03-2A08-43C5-864A-A18F0ED70F2D.heic)  
@@ -70,10 +65,7 @@ https://www.printables.com/model/1344785-raspberry-pi-5-radxa-penta-sata-hat-nas
 - [ ] Build finished  
 - [ ] Software started  
 - [ ] Software finished  
-##   
 ## BUILD:   
-- [ ] Complete  
-  
-##   
+- [ ] Complete
   
   
