@@ -23,10 +23,10 @@ BONUS HARDWARE
 ## PRICING:  
 **TOTAL**: ₹60,000  
 **TOTAL WITHOUT DRIVES**: ₹25,000  
-**Similar NAS Price: **₹88,000  
+**Similar NAS Price**: ₹88,000  
 **SIMILAR NAS PRICE WITHOUT HDD**: ₹55,000  
 ```
-Drive taken in example is Synology DS723+ class NAS
+NAS taken in example is Synology DS723+ class NAS
 
 ```
 ## BUILDING TUTORIAL:  
@@ -48,7 +48,7 @@ https://www.printables.com/model/1344785-raspberry-pi-5-radxa-penta-sata-hat-nas
 10. Cloud system – NextCloud  
 ## FLOWCHART:  
   
-![Image](Attachments/315B3C03-2A08-43C5-864A-A18F0ED70F2D.heic)  
+![Image](Flowchart.png)  
   
 ## CHECKLIST:  
 ### Pre deadline  
