@@ -1,6 +1,6 @@
 ## DAD RPi NAS (BOM)  
 ## HARDWARE:  
-1. Raspberry pi 5 w/ 8 GB of ram```                             ```₹12,000  
+1. Raspberry pi 5 w/ 8 GB of ram```                            ```₹12,000  
 2. Radxa Penta for RPi 5```                                   ```₹6,000  
 3. Raspberry Pi active cooler```                              ```₹500  
 4. Kingston XS1000```                                         ```₹2,000  
