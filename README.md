@@ -20,12 +20,11 @@
 BONUS HARDWARE
 1. Ethernet cable - Ethernet Support
 2. UPS - Uninterruptible Power Supply
-3. ~~Display - Monitoring and statistics~~ E-Paper
-4. ~~Keyboard - Terminal and debugging~~
+3. ~~Display~~ E-Paper - Monitoring and statistics
+4. ~~Keyboard~~ - Terminal and debugging
 5. Extra Hard Disks - More Storage
 6. Pinecil V2 - Soldering Iron
-7. Electric Screwdriver - USB C intergangable magnetic bit electric screwdriver
-
+7. Electric Screwdriver - USB-C interchangeable magnetic bit electric screwdriver
 ```
 ## PRICING:  
 | Category | Price |
@@ -41,7 +40,7 @@ NAS taken in example is Synology DS723+ class NAS
 ## BUILDING TUTORIAL:  
 3d prints and build instructions  
 ```
-~~https://www.printables.com/model/1344785-raspberry-pi-5-radxa-penta-sata-hat-nas-case~~
+~~[Printables model link](https://www.printables.com/model/1344785-raspberry-pi-5-radxa-penta-sata-hat-nas-case)~~
 Instructions: https://the-diy-life.com/building-a-4-bay-3-5-nas-with-a-raspberry-pi-5-and-3d-printed-enclosure/
 3D prints: https://makerworld.com/en/models/1605027-raspberry-pi-5-based-4-bay-nas#profileId-1692368
 
