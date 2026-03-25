@@ -1,33 +1,39 @@
 ## DAD RPi NAS (BOM)  
 ## HARDWARE:  
-| # | Item | Price |
-|---|------|------|
-| 1 | Raspberry pi 5 w/ 8 GB of ram | ₹12,000 |
-| 2 | Radxa Penta for RPi 5 | ₹6,000 |
-| 3 | Raspberry Pi active cooler | ₹500 |
-| 4 | Kingston XS1000 | ₹2,000 |
-| 5 | Noctua 40mm 3 pin fan | ₹2,000 |
-| 6 | molex to 3 pin fan converter | ₹500 |
-| 7 | 12V 5V 60W psu barrel jack | ₹1,500 |
-| 8 | Case | ₹4,000 |
-| 9 | Miscellaneous | ₹200 |
-| 10 | Hard Drives (Seagate IronWolf 4TB NAS SATA HDDs) | ₹16,000 x2 (₹32,000) |
+| Component | Item | PRICE |
+|-----------|------|-------|
+| SBC | Raspberry Pi 5 | ₹12,000 |
+| SATA Hat | Radxa Penta SATA Hat | ₹5,000 |
+| Storage | 8TB Seagate Ironwolf NAS HDD | ₹33,000 |
+| Boot Storage | 256GB eSATA SSD | ₹3,000 |
+| Power | 12V %A 60W Barrel Power Adapter | ₹600 |
+| Cooling | 80mm Slim Fan | ₹1000 |
+| Cooling | Pi 5 Active Cooler | ₹500 |
+| Cable | SATA Cable Extensions | ₹120 |
+| Cable | 90 degree eSATA Cable | ₹800 |
+| Cable | Barrel Jack Extension | ₹1,000 |
+| Adapter | Molex Fan Adapter | ₹600 |
+| Hardware | M3 Brass Inserts | ₹150 |
+| Hardware | 20× M3x8mm Button Head Screws | ₹40 |
+| Hardware | 4× M3x16mm Button Head Screws | ₹12 |
 ```
 BONUS HARDWARE
 1. Ethernet cable - Ethernet Support
 2. UPS - Uninterruptible Power Supply
-3. Display - Monitoring and statistics
-4. Keyboard - Terminal and debugging
+3. ~~Display - Monitoring and statistics~~ E-Paper
+4. ~~Keyboard - Terminal and debugging~~
 5. Extra Hard Disks - More Storage
+6. Pinecil V2 - Soldering Iron
+7. Electric Screwdriver - USB C intergangable magnetic bit electric screwdriver
 
 ```
 ## PRICING:  
 | Category | Price |
 |----------|------|
-| TOTAL | ₹60,000 |
-| TOTAL WITHOUT DRIVES | ₹25,000 |
-| Similar NAS Price | ₹88,000 |
-| SIMILAR NAS PRICE WITHOUT HDD | ₹55,000 |
+| TOTAL | ₹57,822 |
+| TOTAL WITHOUT DRIVES | ₹24,822 |
+| Similar NAS Price | ₹1,03,825 |
+| SIMILAR NAS PRICE WITHOUT HDD | ₹54,800 |
 ```
 NAS taken in example is Synology DS723+ class NAS
 
@@ -35,7 +41,10 @@ NAS taken in example is Synology DS723+ class NAS
 ## BUILDING TUTORIAL:  
 3d prints and build instructions  
 ```
-https://www.printables.com/model/1344785-raspberry-pi-5-radxa-penta-sata-hat-nas-case
+~~https://www.printables.com/model/1344785-raspberry-pi-5-radxa-penta-sata-hat-nas-case~~
+Instructions: https://the-diy-life.com/building-a-4-bay-3-5-nas-with-a-raspberry-pi-5-and-3d-printed-enclosure/
+3D prints: https://makerworld.com/en/models/1605027-raspberry-pi-5-based-4-bay-nas#profileId-1692368
+
 
 ```
 ## SOFTWARE:  
