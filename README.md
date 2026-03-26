@@ -6,7 +6,7 @@
 | SATA Hat | Radxa Penta SATA Hat | ₹5,000 |
 | Storage | 8TB Seagate Ironwolf NAS HDD | ₹33,000 |
 | Boot Storage | 256GB eSATA SSD | ₹3,000 |
-| Power | 12V %A 60W Barrel Power Adapter | ₹600 |
+| Power | 12V 5A 60W Barrel Power Adapter | ₹600 |
 | Cooling | 80mm Slim Fan | ₹1000 |
 | Cooling | Pi 5 Active Cooler | ₹500 |
 | Cable | SATA Cable Extensions | ₹120 |
