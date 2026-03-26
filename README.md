@@ -79,7 +79,30 @@ Instructions: https://the-diy-life.com/building-a-4-bay-3-5-nas-with-a-raspberry
 - [ ] Software started  
 - [ ] Software finished  
 ## BUILD:   
-- [ ] Complete  
+- [ ] Complete
+
+## Directory Tree:
+├── Build Details
+│   ├── .DS_Store
+│   ├── 3D models
+│   │   ├── .DS_Store
+│   │   ├── All Together
+│   │   │   └── Pi+5+3.5+NAS.3mf
+│   │   ├── Drive 1 Tray Handle.stl
+│   │   ├── Drive 2 Tray Handle.stl
+│   │   ├── Drive 3 Tray Handle.stl
+│   │   ├── Drive 4 Tray Handle.stl
+│   │   ├── Drive Handle Washer.stl
+│   │   ├── Drive Tray.stl
+│   │   ├── Fan Cover.stl
+│   │   ├── NAS Body Back.stl
+│   │   ├── NAS Body Front.stl
+│   │   └── SATA Holder.stl
+│   └── Build Instructions.pdf
+├── image.png
+├── LICENSE
+└── README.md
+
 ## CREDITS:
 
 ### Case Design
