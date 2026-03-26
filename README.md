@@ -61,7 +61,7 @@ Instructions: https://the-diy-life.com/building-a-4-bay-3-5-nas-with-a-raspberry
 | 10 | Cloud System | Nextcloud |
 ## FLOWCHART:  
   
-![Image](Flowchart.png)  
+![Image](image.png)  
   
 ## CHECKLIST:  
 ### Pre deadline  
