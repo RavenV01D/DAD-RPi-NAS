@@ -4,7 +4,7 @@
 |-----------|------|-------|
 | SBC | Raspberry Pi 5 | ₹12,000 |
 | SATA Hat | Radxa Penta SATA Hat | ₹5,000 |
-| Storage | 8TB Seagate Ironwolf NAS HDD | ₹33,000 |
+| Storage | 4TB Seagate Ironwolf NAS HDD | ₹16,000 |
 | Boot Storage | 256GB eSATA SSD | ₹3,000 |
 | Power | 12V 5A 60W Barrel Power Adapter | ₹600 |
 | Cooling | 80mm Slim Fan | ₹1000 |
@@ -29,7 +29,7 @@ BONUS HARDWARE
 ## PRICING:  
 | Category | Price |
 |----------|------|
-| TOTAL | ₹57,822 |
+| TOTAL | ₹40,822 |
 | TOTAL WITHOUT DRIVES | ₹24,822 |
 | Similar NAS Price | ₹1,03,825 |
 | SIMILAR NAS PRICE WITHOUT HDD | ₹54,800 |
