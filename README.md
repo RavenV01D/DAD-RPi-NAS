@@ -16,6 +16,7 @@
 | Hardware | M3 Brass Inserts | ₹150 |
 | Hardware | 20× M3x8mm Button Head Screws | ₹40 |
 | Hardware | 4× M3x16mm Button Head Screws | ₹12 |
+| Case | Robu.in ePLA + ASA + PETG | ₹7,609 |
 ```
 BONUS HARDWARE
 1. Ethernet cable - Ethernet Support
@@ -29,8 +30,8 @@ BONUS HARDWARE
 ## PRICING:  
 | Category | Price |
 |----------|------|
-| TOTAL | ₹40,822 |
-| TOTAL WITHOUT DRIVES | ₹24,822 |
+| TOTAL | ₹48,431 |
+| TOTAL WITHOUT DRIVES | ₹32,431 |
 | Similar NAS Price | ₹1,03,825 |
 | SIMILAR NAS PRICE WITHOUT HDD | ₹54,800 |
 ```
