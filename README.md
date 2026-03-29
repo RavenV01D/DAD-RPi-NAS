@@ -1,4 +1,4 @@
-## DAD RPi NAS (BOM)  
+## Raven Pulse NAS Server (BOM)  
 ## HARDWARE:  
 | Component | Item | PRICE |
 |-----------|------|-------|
